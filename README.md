@@ -1,4 +1,4 @@
-# Attitudes Shift LGBT
+# Viz recreation: Public views about homosexuality
 
 This project recreates an **Our World in Data** visualization showing the decline of homophobic attitudes in Western Europe and the United States over the past four decades.  
 It is intended as a hands-on exercise in data visualization and chart reproduction using Python.
@@ -6,7 +6,6 @@ It is intended as a hands-on exercise in data visualization and chart reproducti
 ---
 
 ## 📊 Visualisation
-
 
 **Recreated chart:**  
 ![Recreated chart](recreated_chart.png)
