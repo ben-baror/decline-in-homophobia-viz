@@ -7,11 +7,12 @@ It is intended as a small, hands-on exercise in data visualization and chart rep
 
 ## 📊 Visualisation
 
-**Original chart (Our World in Data):**  
-![Original chart](images/original_chart.png)
 
 **Recreated chart:**  
-![Recreated chart](images/recreated_chart.png)
+![Recreated chart](recreated_chart.png)
+
+**Original chart (Our World in Data):**  
+![Original chart](og_viz.png)
 
 ---
 
